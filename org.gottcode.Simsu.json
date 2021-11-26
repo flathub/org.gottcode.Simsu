@@ -1,7 +1,7 @@
 {
 	"app-id": "org.gottcode.Simsu",
 	"runtime": "org.kde.Platform",
-	"runtime-version": "5.15-21.08",
+	"runtime-version": "6.2",
 	"sdk": "org.kde.Sdk",
 	"command": "simsu",
 	"rename-icon": "simsu",
@@ -18,7 +18,7 @@
 	"modules": [
 		{
 			"name": "simsu",
-			"buildsystem": "qmake",
+			"buildsystem": "cmake-ninja",
 			"sources": [
 				{
 					"type": "archive",
