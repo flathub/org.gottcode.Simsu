@@ -22,8 +22,8 @@
 			"sources": [
 				{
 					"type": "archive",
-					"url": "https://gottcode.org/simsu/simsu-1.4.2.tar.bz2",
-					"sha256": "7230293d7ff8d52b4a8d7f4e26638cff6e22e2a78edcc4ddaf7988da624fb37c"
+					"url": "https://gottcode.org/simsu/simsu-1.4.3.tar.bz2",
+					"sha256": "77c690f242a073c99cb6fa08f039d02988110b34e211f0d8c7f0fe0b9c0e41a2"
 				}
 			]
 		}
