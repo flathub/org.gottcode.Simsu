@@ -1,7 +1,7 @@
 {
 	"app-id": "org.gottcode.Simsu",
 	"runtime": "org.kde.Platform",
-	"runtime-version": "6.8",
+	"runtime-version": "6.9",
 	"sdk": "org.kde.Sdk",
 	"command": "simsu",
 	"rename-icon": "simsu",
@@ -24,6 +24,10 @@
 					"type": "archive",
 					"url": "https://gottcode.org/simsu/simsu-1.4.5.tar.bz2",
 					"sha256": "44818819769a0510cd28de92f36da057255d80190381d3e58d3e3230827780b6"
+				},
+				{
+					"type": "patch",
+					"path": "fix-compile.patch"
 				}
 			]
 		}
