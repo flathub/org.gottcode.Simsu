@@ -1,7 +1,7 @@
 {
 	"app-id": "org.gottcode.Simsu",
 	"runtime": "org.kde.Platform",
-	"runtime-version": "6.9",
+	"runtime-version": "6.10",
 	"sdk": "org.kde.Sdk",
 	"command": "simsu",
 	"rename-icon": "simsu",
@@ -22,8 +22,8 @@
 			"sources": [
 				{
 					"type": "archive",
-					"url": "https://gottcode.org/simsu/simsu-1.4.6.tar.bz2",
-					"sha256": "22f9f3c3206860f3f20b84f75ec66f070bea3e1e7350bf641a2396c98703f0a7"
+					"url": "https://gottcode.org/simsu/simsu-1.4.7.tar.bz2",
+					"sha256": "ca864c48c81c55e50293e226154cb123f0333f6a080b87f006e10c57a9670086"
 				}
 			]
 		}
